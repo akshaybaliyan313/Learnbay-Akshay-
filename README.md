@@ -6,3 +6,5 @@ I did git clone "url"
 created README file 
 add README file 
 commit -m "" README file
+modify README file on remote 
+git pull
